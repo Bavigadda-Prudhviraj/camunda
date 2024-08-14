@@ -1,0 +1,6 @@
+com\firstProject\workflow\Application.class
+com\firstProject\workflow\controller\HomeController.class
+com\firstProject\workflow\serviceImpl\UserDepartmentServiceImpl.class
+com\firstProject\workflow\delegates\FetchUserRoleDelegate.class
+com\firstProject\workflow\delegates\FetchEmailDelegate.class
+com\firstProject\workflow\services\UserDepartmentService.class
